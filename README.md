@@ -38,8 +38,9 @@ Using cv2.drawContours(), I then tried to fill the countours of the barrel, howe
 
 <img width="614" alt="Screenshot 2022-07-17 at 15 28 34" src="https://user-images.githubusercontent.com/97196465/179400686-c9a9528c-5032-4a53-9bb5-99d228bf211d.png">
 
+**Next steps**
+- Adjusting the color space range in order to improve the detection of the barrel
 
-
-
-
+**Known bugs**
+- Low detection accuracy of the barrel in dim lightings.
 
